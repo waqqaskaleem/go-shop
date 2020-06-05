@@ -1,0 +1,99 @@
+
+
+
+
+.logo{
+    height: 40px;
+    width: 100px;
+}
+.navbar{
+background-color: grey !important;
+}
+.nav-link{
+    color: white  !important;
+    font-weight: bold;
+    border-radius: 25% !important;
+    border: green;
+}
+.btn{
+    color: white  !important;
+}
+
+.fa-shopping-cart{
+   font-size: 20px !important;
+
+ 
+}
+.fa-user{
+    font-size:20px !important ;
+    
+}
+.img{
+    height:680px;
+    width: 100%;
+}
+.dropdown-item{
+    font-weight: bold;
+}
+.nav-link:hover {
+    background-color:green;
+  }
+  .paragraph{
+      font-size: 10px;
+  }
+.heading{
+    color: grey !important;
+    text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px black ;
+    margin-top: 40px;
+    font-size: 60px;
+}
+.card-title{
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.712);
+}
+.card-text{
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.712);
+}
+.card-body1{
+    margin-top: 10em;
+}
+.img1{
+    margin-top: 20px;
+}
+.fa-motorcycle,.fa-headphones,.fa-thumbs-up{
+    font-size: 40px !important;
+    color: grey !important;
+    margin-right: 10px;
+ 
+}
+.card1,.card2,.card3{
+    display: flex;
+    width: 303px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px black;
+    justify-content: center;
+    align-items: center;
+}
+.maincard{
+    margin-top: 50px !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+ 
+}
+.heading1{
+    color: grey;
+}
+.button{
+    margin-top: 40px;
+}
